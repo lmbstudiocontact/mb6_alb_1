@@ -1,31 +1,27 @@
 [
   {
-    "title": "Madagascar Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677096731_d9f0705e7a_o.gif",
-    "id_album": "1055051297",
-    "total": 9,
+    "title": "Lilo & Stitch Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676257957_3288e392ae_o.gif",
+    "id_album": "1677497602",
+    "total": 30,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1055051297_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1677497602_index_0.json"
       }
     ]
   },
   {
-    "title": "Cute Art_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677299375_83cf1f252e_o.gif",
-    "id_album": "195512437",
-    "total": 76,
-    "size_max_detail_page": 2,
+    "title": "Mickey Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677986485_77b0fef07b_o.gif",
+    "id_album": "485113237",
+    "total": 22,
+    "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_195512437_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_195512437_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_485113237_index_0.json"
       }
     ]
   }

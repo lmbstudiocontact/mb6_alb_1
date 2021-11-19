@@ -1,35 +1,27 @@
 [
   {
-    "title": "Mickey Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677986485_77b0fef07b_o.gif",
-    "id_album": "485113237",
-    "total": 22,
+    "title": "Death Note Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677387440_d600b6a4e5_o.gif",
+    "id_album": "1251647241",
+    "total": 8,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_485113237_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1251647241_index_0.json"
       }
     ]
   },
   {
-    "title": "Cartoon",
-    "link_thumb": "https://live.staticflickr.com/65535/51670143264_d3cff36563_o.gif",
-    "id_album": "-2075887794",
-    "total": 135,
-    "size_max_detail_page": 3,
+    "title": "Music_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676340167_489d7370cb_o.gif",
+    "id_album": "1212255478",
+    "total": 24,
+    "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2075887794_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2075887794_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2075887794_index_2.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1212255478_index_0.json"
       }
     ]
   }

@@ -1,35 +1,27 @@
 [
   {
-    "title": "One Piece Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677470298_2db6d5ea6c_o.gif",
-    "id_album": "1669710643",
-    "total": 135,
-    "size_max_detail_page": 3,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_2.json"
-      }
-    ]
-  },
-  {
-    "title": "Simpsons Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678333414_3cfc038e70_o.gif",
-    "id_album": "-1214937997",
-    "total": 8,
+    "title": "Ratatouille Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51678454185_646398c657_o.gif",
+    "id_album": "-1094149645",
+    "total": 5,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1214937997_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1094149645_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Detective Conan_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51675713327_d35e500392_o.gif",
+    "id_album": "1697179127",
+    "total": 16,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1697179127_index_0.json"
       }
     ]
   }

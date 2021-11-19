@@ -1,27 +1,47 @@
 [
   {
-    "title": "Donald Duck Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676604566_7171b70552_o.gif",
-    "id_album": "-293239510",
-    "total": 4,
-    "size_max_detail_page": 1,
+    "title": "Anime",
+    "link_thumb": "https://live.staticflickr.com/65535/51670343325_4f77dbf297_o.gif",
+    "id_album": "63410260",
+    "total": 293,
+    "size_max_detail_page": 6,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-293239510_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_5.json"
       }
     ]
   },
   {
-    "title": "Horror Art_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676082682_63d7356df1_o.gif",
-    "id_album": "1925454094",
-    "total": 41,
+    "title": "Boku No Hero Academia Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677017219_c7cbb4199e_o.gif",
+    "id_album": "638826546",
+    "total": 19,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1925454094_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_638826546_index_0.json"
       }
     ]
   }

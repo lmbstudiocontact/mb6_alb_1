@@ -1,35 +1,27 @@
 [
   {
-    "title": "Pokmon Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677431216_f355d57682_o.gif",
-    "id_album": "-1571020089",
-    "total": 108,
-    "size_max_detail_page": 3,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_2.json"
-      }
-    ]
-  },
-  {
-    "title": "Rio 2_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677827918_d10106c2d2_o.gif",
-    "id_album": "296910609",
-    "total": 17,
+    "title": "Frozen Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677459274_0e3f0beeb6_o.gif",
+    "id_album": "-1319288147",
+    "total": 11,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_296910609_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1319288147_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Joker Harley Quinn_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677187098_51694f8654_o.gif",
+    "id_album": "-1985531774",
+    "total": 24,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1985531774_index_0.json"
       }
     ]
   }

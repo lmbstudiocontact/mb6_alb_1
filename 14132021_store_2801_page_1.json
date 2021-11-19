@@ -1,27 +1,51 @@
 [
   {
-    "title": "Shiv_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677633001_4b2a218aef_o.gif",
-    "id_album": "-959254855",
-    "total": 32,
-    "size_max_detail_page": 1,
+    "title": "Anime",
+    "link_thumb": "https://live.staticflickr.com/65535/51670343325_4f77dbf297_o.gif",
+    "id_album": "63410260",
+    "total": 293,
+    "size_max_detail_page": 6,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-959254855_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_5.json"
       }
     ]
   },
   {
-    "title": "Angry Birds_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51675510042_6fcab7e4be_o.gif",
-    "id_album": "-1186646688",
-    "total": 26,
-    "size_max_detail_page": 1,
+    "title": "Kitty & My Melody_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677856270_67dfa942de_o.gif",
+    "id_album": "1352454006",
+    "total": 76,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1186646688_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1352454006_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1352454006_index_1.json"
       }
     ]
   }

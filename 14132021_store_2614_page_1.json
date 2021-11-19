@@ -1,27 +1,27 @@
 [
   {
-    "title": "Raccoons_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678220834_818bcf2719_o.gif",
-    "id_album": "905414983",
-    "total": 20,
+    "title": "Fox Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51675976162_dba3cf0252_o.gif",
+    "id_album": "1857757129",
+    "total": 7,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_905414983_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1857757129_index_0.json"
       }
     ]
   },
   {
-    "title": "Kung Fu Panda_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677060386_1630d521d1_o.gif",
-    "id_album": "-1726009963",
+    "title": "One Punch Man Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51678040499_ee97f946ef_o.gif",
+    "id_album": "-40111719",
     "total": 2,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1726009963_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-40111719_index_0.json"
       }
     ]
   }

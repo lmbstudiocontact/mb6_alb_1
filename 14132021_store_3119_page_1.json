@@ -1,27 +1,27 @@
 [
   {
-    "title": "Raccoons_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678220834_818bcf2719_o.gif",
-    "id_album": "905414983",
-    "total": 20,
+    "title": "Joker Harley Quinn_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677187098_51694f8654_o.gif",
+    "id_album": "-1985531774",
+    "total": 24,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_905414983_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1985531774_index_0.json"
       }
     ]
   },
   {
-    "title": "Boss Baby Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677036369_7fc79870c8_o.gif",
-    "id_album": "-2047829404",
+    "title": "Detective Conan_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51675713327_d35e500392_o.gif",
+    "id_album": "1697179127",
     "total": 16,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2047829404_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1697179127_index_0.json"
       }
     ]
   }
