@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Angry Birds_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51675510042_6fcab7e4be_o.gif",
+    "id_album": "-1186646688",
+    "total": 26,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1186646688_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Detective Conan_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51675713327_d35e500392_o.gif",
+    "id_album": "1697179127",
+    "total": 16,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1697179127_index_0.json"
+      }
+    ]
+  }
+]
