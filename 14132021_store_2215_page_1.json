@@ -1,27 +1,31 @@
 [
   {
-    "title": "Angry Birds_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51675510042_6fcab7e4be_o.gif",
-    "id_album": "-1186646688",
-    "total": 26,
-    "size_max_detail_page": 1,
+    "title": "Kitty & My Melody_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677856270_67dfa942de_o.gif",
+    "id_album": "1352454006",
+    "total": 76,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1186646688_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1352454006_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1352454006_index_1.json"
       }
     ]
   },
   {
-    "title": "Butterfly_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676392056_cb0c4fdb09_o.gif",
-    "id_album": "559203688",
-    "total": 6,
+    "title": "Buddhist Terms_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677257355_a75484338e_o.gif",
+    "id_album": "402456063",
+    "total": 13,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_559203688_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_402456063_index_0.json"
       }
     ]
   }

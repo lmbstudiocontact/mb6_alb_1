@@ -1,27 +1,31 @@
 [
   {
-    "title": "Ragnarok_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676752647_e4c4962709_o.gif",
-    "id_album": "1272388472",
-    "total": 15,
-    "size_max_detail_page": 1,
+    "title": "Disney Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677210409_ac23b3beea_o.gif",
+    "id_album": "-1858058375",
+    "total": 54,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1272388472_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_1.json"
       }
     ]
   },
   {
-    "title": "Smurf Houses Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676863287_efe643cf91_o.gif",
-    "id_album": "319226345",
-    "total": 4,
+    "title": "Doraemon Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51675806347_7ea50f5498_o.gif",
+    "id_album": "-1001389594",
+    "total": 16,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_319226345_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1001389594_index_0.json"
       }
     ]
   }

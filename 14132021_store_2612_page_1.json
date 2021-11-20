@@ -1,27 +1,27 @@
 [
   {
-    "title": "Star War_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676877847_b9d904aa4f_o.gif",
-    "id_album": "-1383219199",
-    "total": 2,
+    "title": "Music_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676340167_489d7370cb_o.gif",
+    "id_album": "1212255478",
+    "total": 24,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1383219199_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1212255478_index_0.json"
       }
     ]
   },
   {
-    "title": "Seven deadly sins Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676790217_79605c2024_o.gif",
-    "id_album": "1052927760",
-    "total": 43,
+    "title": "Shiv_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677633001_4b2a218aef_o.gif",
+    "id_album": "-959254855",
+    "total": 32,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1052927760_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-959254855_index_0.json"
       }
     ]
   }

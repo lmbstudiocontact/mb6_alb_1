@@ -1,27 +1,35 @@
 [
   {
-    "title": "Spider Man Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678553310_ff472b80d6_o.gif",
-    "id_album": "890024494",
-    "total": 16,
+    "title": "Horror Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676082682_63d7356df1_o.gif",
+    "id_album": "1925454094",
+    "total": 41,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_890024494_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1925454094_index_0.json"
       }
     ]
   },
   {
-    "title": "Shiv_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677633001_4b2a218aef_o.gif",
-    "id_album": "-959254855",
-    "total": 32,
-    "size_max_detail_page": 1,
+    "title": "One Piece Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677470298_2db6d5ea6c_o.gif",
+    "id_album": "1669710643",
+    "total": 135,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-959254855_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_2.json"
       }
     ]
   }

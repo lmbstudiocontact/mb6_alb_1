@@ -1,27 +1,47 @@
 [
   {
-    "title": "Ghibli Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677472504_01bd1c6c93_o.gif",
-    "id_album": "1193703152",
-    "total": 17,
-    "size_max_detail_page": 1,
+    "title": "Anime",
+    "link_thumb": "https://live.staticflickr.com/65535/51670343325_4f77dbf297_o.gif",
+    "id_album": "63410260",
+    "total": 293,
+    "size_max_detail_page": 6,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1193703152_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_5.json"
       }
     ]
   },
   {
-    "title": "Detective Conan_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51675713327_d35e500392_o.gif",
-    "id_album": "1697179127",
-    "total": 16,
+    "title": "Raccoons_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51678220834_818bcf2719_o.gif",
+    "id_album": "905414983",
+    "total": 20,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1697179127_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_905414983_index_0.json"
       }
     ]
   }

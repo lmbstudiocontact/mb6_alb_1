@@ -1,47 +1,27 @@
 [
   {
-    "title": "Anime",
-    "link_thumb": "https://live.staticflickr.com/65535/51670343325_4f77dbf297_o.gif",
-    "id_album": "63410260",
-    "total": 293,
-    "size_max_detail_page": 6,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_2.json"
-      },
-      {
-        "index_page": 3,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_3.json"
-      },
-      {
-        "index_page": 4,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_4.json"
-      },
-      {
-        "index_page": 5,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_5.json"
-      }
-    ]
-  },
-  {
-    "title": "One Punch Man Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678040499_ee97f946ef_o.gif",
-    "id_album": "-40111719",
-    "total": 2,
+    "title": "Dragon Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677511155_a5607e3024_o.gif",
+    "id_album": "-1267433787",
+    "total": 13,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-40111719_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1267433787_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Fox Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51675976162_dba3cf0252_o.gif",
+    "id_album": "1857757129",
+    "total": 7,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1857757129_index_0.json"
       }
     ]
   }

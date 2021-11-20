@@ -1,27 +1,35 @@
 [
   {
-    "title": "Butterfly_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676392056_cb0c4fdb09_o.gif",
-    "id_album": "559203688",
-    "total": 6,
-    "size_max_detail_page": 1,
+    "title": "Dragon Ball Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677320529_9ecfde8bf1_o.gif",
+    "id_album": "-1148299077",
+    "total": 60,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_559203688_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1148299077_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1148299077_index_1.json"
       }
     ]
   },
   {
-    "title": "Music_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676340167_489d7370cb_o.gif",
-    "id_album": "1212255478",
-    "total": 24,
-    "size_max_detail_page": 1,
+    "title": "Game",
+    "link_thumb": "https://live.staticflickr.com/65535/51670155889_4834f4a7ba_o.gif",
+    "id_album": "2211858",
+    "total": 53,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1212255478_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_2211858_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_2211858_index_1.json"
       }
     ]
   }

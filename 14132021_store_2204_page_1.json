@@ -1,5 +1,22 @@
 [
   {
+    "title": "Game",
+    "link_thumb": "https://live.staticflickr.com/65535/51670155889_4834f4a7ba_o.gif",
+    "id_album": "2211858",
+    "total": 53,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_2211858_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_2211858_index_1.json"
+      }
+    ]
+  },
+  {
     "title": "Anime",
     "link_thumb": "https://live.staticflickr.com/65535/51670343325_4f77dbf297_o.gif",
     "id_album": "63410260",
@@ -29,23 +46,6 @@
       {
         "index_page": 5,
         "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_63410260_index_5.json"
-      }
-    ]
-  },
-  {
-    "title": "Dragon Ball Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677320529_9ecfde8bf1_o.gif",
-    "id_album": "-1148299077",
-    "total": 60,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1148299077_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1148299077_index_1.json"
       }
     ]
   }

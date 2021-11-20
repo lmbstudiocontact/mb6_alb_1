@@ -1,35 +1,31 @@
 [
   {
-    "title": "Pokmon Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677431216_f355d57682_o.gif",
-    "id_album": "-1571020089",
-    "total": 108,
-    "size_max_detail_page": 3,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_2.json"
-      }
-    ]
-  },
-  {
-    "title": "Ragnarok_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676752647_e4c4962709_o.gif",
-    "id_album": "1272388472",
-    "total": 15,
+    "title": "Boku No Hero Academia Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677017219_c7cbb4199e_o.gif",
+    "id_album": "638826546",
+    "total": 19,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1272388472_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_638826546_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Kitty & My Melody_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677856270_67dfa942de_o.gif",
+    "id_album": "1352454006",
+    "total": 76,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1352454006_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1352454006_index_1.json"
       }
     ]
   }

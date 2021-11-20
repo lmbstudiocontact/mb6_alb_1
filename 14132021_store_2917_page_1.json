@@ -1,27 +1,31 @@
 [
   {
-    "title": "Panda Art_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676593832_b5f44207a5_o.gif",
-    "id_album": "1057265438",
-    "total": 5,
-    "size_max_detail_page": 1,
+    "title": "Dragon Ball Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677320529_9ecfde8bf1_o.gif",
+    "id_album": "-1148299077",
+    "total": 60,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1057265438_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1148299077_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1148299077_index_1.json"
       }
     ]
   },
   {
-    "title": "Angry Birds_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51675510042_6fcab7e4be_o.gif",
-    "id_album": "-1186646688",
-    "total": 26,
+    "title": "Horror Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676082682_63d7356df1_o.gif",
+    "id_album": "1925454094",
+    "total": 41,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1186646688_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1925454094_index_0.json"
       }
     ]
   }
