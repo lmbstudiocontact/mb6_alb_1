@@ -1,27 +1,27 @@
 [
   {
-    "title": "Music_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676340167_489d7370cb_o.gif",
-    "id_album": "1212255478",
-    "total": 24,
+    "title": "Star War_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676877847_b9d904aa4f_o.gif",
+    "id_album": "-1383219199",
+    "total": 2,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1212255478_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1383219199_index_0.json"
       }
     ]
   },
   {
-    "title": "Horror Art_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676082682_63d7356df1_o.gif",
-    "id_album": "1925454094",
-    "total": 41,
+    "title": "Dragon Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677511155_a5607e3024_o.gif",
+    "id_album": "-1267433787",
+    "total": 13,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1925454094_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1267433787_index_0.json"
       }
     ]
   }

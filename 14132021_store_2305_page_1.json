@@ -1,27 +1,35 @@
 [
   {
-    "title": "Detective Conan_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51675713327_d35e500392_o.gif",
-    "id_album": "1697179127",
-    "total": 16,
-    "size_max_detail_page": 1,
+    "title": "One Piece Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677470298_2db6d5ea6c_o.gif",
+    "id_album": "1669710643",
+    "total": 135,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1697179127_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_2.json"
       }
     ]
   },
   {
-    "title": "Boku No Hero Academia Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677017219_c7cbb4199e_o.gif",
-    "id_album": "638826546",
-    "total": 19,
+    "title": "Raccoons_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51678220834_818bcf2719_o.gif",
+    "id_album": "905414983",
+    "total": 20,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_638826546_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_905414983_index_0.json"
       }
     ]
   }

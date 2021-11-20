@@ -1,35 +1,31 @@
 [
   {
-    "title": "Raccoons_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678220834_818bcf2719_o.gif",
-    "id_album": "905414983",
-    "total": 20,
-    "size_max_detail_page": 1,
+    "title": "Cute Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677299375_83cf1f252e_o.gif",
+    "id_album": "195512437",
+    "total": 76,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_905414983_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_195512437_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_195512437_index_1.json"
       }
     ]
   },
   {
-    "title": "One Piece Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677470298_2db6d5ea6c_o.gif",
-    "id_album": "1669710643",
-    "total": 135,
-    "size_max_detail_page": 3,
+    "title": "Mickey Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677986485_77b0fef07b_o.gif",
+    "id_album": "485113237",
+    "total": 22,
+    "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_2.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_485113237_index_0.json"
       }
     ]
   }

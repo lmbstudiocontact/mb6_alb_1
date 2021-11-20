@@ -1,27 +1,31 @@
 [
   {
-    "title": "Butterfly_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676392056_cb0c4fdb09_o.gif",
-    "id_album": "559203688",
-    "total": 6,
-    "size_max_detail_page": 1,
+    "title": "Disney Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677210409_ac23b3beea_o.gif",
+    "id_album": "-1858058375",
+    "total": 54,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_559203688_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_1.json"
       }
     ]
   },
   {
-    "title": "Angry Birds_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51675510042_6fcab7e4be_o.gif",
-    "id_album": "-1186646688",
-    "total": 26,
+    "title": "Naruto Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676368287_866fcc9861_o.gif",
+    "id_album": "-549634250",
+    "total": 37,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1186646688_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-549634250_index_0.json"
       }
     ]
   }
