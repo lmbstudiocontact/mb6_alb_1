@@ -1,27 +1,39 @@
 [
   {
-    "title": "Rio 2_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677827918_d10106c2d2_o.gif",
-    "id_album": "296910609",
-    "total": 17,
-    "size_max_detail_page": 1,
+    "title": "Kitty & My Melody_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677856270_67dfa942de_o.gif",
+    "id_album": "1352454006",
+    "total": 76,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_296910609_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1352454006_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1352454006_index_1.json"
       }
     ]
   },
   {
-    "title": "Animal Art_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677216510_4ea1105918_o.gif",
-    "id_album": "-1265072900",
-    "total": 7,
-    "size_max_detail_page": 1,
+    "title": "Cartoon",
+    "link_thumb": "https://live.staticflickr.com/65535/51670143264_d3cff36563_o.gif",
+    "id_album": "-2075887794",
+    "total": 135,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1265072900_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2075887794_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2075887794_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2075887794_index_2.json"
       }
     ]
   }

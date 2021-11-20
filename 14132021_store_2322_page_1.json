@@ -1,27 +1,27 @@
 [
   {
-    "title": "Donald Duck Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676604566_7171b70552_o.gif",
-    "id_album": "-293239510",
-    "total": 4,
+    "title": "Detective Conan_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51675713327_d35e500392_o.gif",
+    "id_album": "1697179127",
+    "total": 16,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-293239510_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1697179127_index_0.json"
       }
     ]
   },
   {
-    "title": "Raccoons_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678220834_818bcf2719_o.gif",
-    "id_album": "905414983",
-    "total": 20,
+    "title": "Seven deadly sins Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676790217_79605c2024_o.gif",
+    "id_album": "1052927760",
+    "total": 43,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_905414983_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1052927760_index_0.json"
       }
     ]
   }

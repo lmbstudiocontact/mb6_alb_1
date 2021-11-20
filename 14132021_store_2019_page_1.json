@@ -1,5 +1,18 @@
 [
   {
+    "title": "One Punch Man Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51678040499_ee97f946ef_o.gif",
+    "id_album": "-40111719",
+    "total": 2,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-40111719_index_0.json"
+      }
+    ]
+  },
+  {
     "title": "None",
     "link_thumb": "https://live.staticflickr.com/65535/51670337080_aa664e3848_o.gif",
     "id_album": "2433880",
@@ -85,27 +98,6 @@
       {
         "index_page": 19,
         "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_2433880_index_19.json"
-      }
-    ]
-  },
-  {
-    "title": "Cartoon",
-    "link_thumb": "https://live.staticflickr.com/65535/51670143264_d3cff36563_o.gif",
-    "id_album": "-2075887794",
-    "total": 135,
-    "size_max_detail_page": 3,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2075887794_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2075887794_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2075887794_index_2.json"
       }
     ]
   }

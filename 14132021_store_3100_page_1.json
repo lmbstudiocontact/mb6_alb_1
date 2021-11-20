@@ -1,22 +1,5 @@
 [
   {
-    "title": "Kitty & My Melody_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677856270_67dfa942de_o.gif",
-    "id_album": "1352454006",
-    "total": 76,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1352454006_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1352454006_index_1.json"
-      }
-    ]
-  },
-  {
     "title": "Ragnarok_M6_2",
     "link_thumb": "https://live.staticflickr.com/65535/51676752647_e4c4962709_o.gif",
     "id_album": "1272388472",
@@ -26,6 +9,19 @@
       {
         "index_page": 0,
         "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1272388472_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Naruto Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676368287_866fcc9861_o.gif",
+    "id_album": "-549634250",
+    "total": 37,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-549634250_index_0.json"
       }
     ]
   }
