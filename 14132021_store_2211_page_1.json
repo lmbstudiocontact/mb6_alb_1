@@ -1,31 +1,31 @@
 [
   {
-    "title": "Simpsons Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678333414_3cfc038e70_o.gif",
-    "id_album": "-1214937997",
-    "total": 8,
+    "title": "Spider Man Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51678553310_ff472b80d6_o.gif",
+    "id_album": "890024494",
+    "total": 16,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1214937997_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_890024494_index_0.json"
       }
     ]
   },
   {
-    "title": "Disney Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677210409_ac23b3beea_o.gif",
-    "id_album": "-1858058375",
-    "total": 54,
+    "title": "Cute Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677299375_83cf1f252e_o.gif",
+    "id_album": "195512437",
+    "total": 76,
     "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_195512437_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_195512437_index_1.json"
       }
     ]
   }

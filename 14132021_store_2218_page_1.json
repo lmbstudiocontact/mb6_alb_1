@@ -1,27 +1,27 @@
 [
   {
-    "title": "Simpsons Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678333414_3cfc038e70_o.gif",
-    "id_album": "-1214937997",
-    "total": 8,
+    "title": "Detective Conan_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51675713327_d35e500392_o.gif",
+    "id_album": "1697179127",
+    "total": 16,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1214937997_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1697179127_index_0.json"
       }
     ]
   },
   {
-    "title": "Star War_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676877847_b9d904aa4f_o.gif",
-    "id_album": "-1383219199",
-    "total": 2,
+    "title": "Ratatouille Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51678454185_646398c657_o.gif",
+    "id_album": "-1094149645",
+    "total": 5,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1383219199_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1094149645_index_0.json"
       }
     ]
   }

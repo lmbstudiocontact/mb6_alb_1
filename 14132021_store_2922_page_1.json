@@ -1,27 +1,31 @@
 [
   {
-    "title": "Ratatouille Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678454185_646398c657_o.gif",
-    "id_album": "-1094149645",
-    "total": 5,
+    "title": "Mickey Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677986485_77b0fef07b_o.gif",
+    "id_album": "485113237",
+    "total": 22,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1094149645_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_485113237_index_0.json"
       }
     ]
   },
   {
-    "title": "Fox Art_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51675976162_dba3cf0252_o.gif",
-    "id_album": "1857757129",
-    "total": 7,
-    "size_max_detail_page": 1,
+    "title": "Disney Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677210409_ac23b3beea_o.gif",
+    "id_album": "-1858058375",
+    "total": 54,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1857757129_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_1.json"
       }
     ]
   }

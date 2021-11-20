@@ -1,27 +1,39 @@
 [
   {
-    "title": "Football_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677392879_e4b45f3c77_o.gif",
-    "id_album": "-73748370",
-    "total": 49,
-    "size_max_detail_page": 1,
+    "title": "Pokmon Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677431216_f355d57682_o.gif",
+    "id_album": "-1571020089",
+    "total": 108,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-73748370_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_2.json"
       }
     ]
   },
   {
-    "title": "Seven deadly sins Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676790217_79605c2024_o.gif",
-    "id_album": "1052927760",
-    "total": 43,
-    "size_max_detail_page": 1,
+    "title": "Disney Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677210409_ac23b3beea_o.gif",
+    "id_album": "-1858058375",
+    "total": 54,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1052927760_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_1.json"
       }
     ]
   }

@@ -1,31 +1,35 @@
 [
   {
-    "title": "One Punch Man Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678040499_ee97f946ef_o.gif",
-    "id_album": "-40111719",
-    "total": 2,
-    "size_max_detail_page": 1,
+    "title": "One Piece Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677470298_2db6d5ea6c_o.gif",
+    "id_album": "1669710643",
+    "total": 135,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-40111719_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_2.json"
       }
     ]
   },
   {
-    "title": "Cute Art_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677299375_83cf1f252e_o.gif",
-    "id_album": "195512437",
-    "total": 76,
-    "size_max_detail_page": 2,
+    "title": "Football_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677392879_e4b45f3c77_o.gif",
+    "id_album": "-73748370",
+    "total": 49,
+    "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_195512437_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_195512437_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-73748370_index_0.json"
       }
     ]
   }

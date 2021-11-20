@@ -1,27 +1,31 @@
 [
   {
-    "title": "Panda Art_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676593832_b5f44207a5_o.gif",
-    "id_album": "1057265438",
-    "total": 5,
-    "size_max_detail_page": 1,
+    "title": "Cute Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677299375_83cf1f252e_o.gif",
+    "id_album": "195512437",
+    "total": 76,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1057265438_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_195512437_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_195512437_index_1.json"
       }
     ]
   },
   {
-    "title": "Moana Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676323677_c37697e8fe_o.gif",
-    "id_album": "-1260016165",
-    "total": 13,
+    "title": "Star War_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676877847_b9d904aa4f_o.gif",
+    "id_album": "-1383219199",
+    "total": 2,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1260016165_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1383219199_index_0.json"
       }
     ]
   }

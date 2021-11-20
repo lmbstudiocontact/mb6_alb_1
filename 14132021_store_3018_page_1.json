@@ -1,27 +1,43 @@
 [
   {
-    "title": "Football_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677392879_e4b45f3c77_o.gif",
-    "id_album": "-73748370",
-    "total": 49,
-    "size_max_detail_page": 1,
+    "title": "Cartoon",
+    "link_thumb": "https://live.staticflickr.com/65535/51670143264_d3cff36563_o.gif",
+    "id_album": "-2075887794",
+    "total": 135,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-73748370_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2075887794_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2075887794_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-2075887794_index_2.json"
       }
     ]
   },
   {
-    "title": "Detective Conan_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51675713327_d35e500392_o.gif",
-    "id_album": "1697179127",
-    "total": 16,
-    "size_max_detail_page": 1,
+    "title": "Pokmon Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677431216_f355d57682_o.gif",
+    "id_album": "-1571020089",
+    "total": 108,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1697179127_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_2.json"
       }
     ]
   }
