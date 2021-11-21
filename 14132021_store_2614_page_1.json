@@ -1,35 +1,27 @@
 [
   {
-    "title": "Lilo & Stitch Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676257957_3288e392ae_o.gif",
-    "id_album": "1677497602",
-    "total": 30,
+    "title": "Dragon Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677511155_a5607e3024_o.gif",
+    "id_album": "-1267433787",
+    "total": 13,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1677497602_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1267433787_index_0.json"
       }
     ]
   },
   {
-    "title": "Pokmon Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677431216_f355d57682_o.gif",
-    "id_album": "-1571020089",
-    "total": 108,
-    "size_max_detail_page": 3,
+    "title": "Kung Fu Panda_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677060386_1630d521d1_o.gif",
+    "id_album": "-1726009963",
+    "total": 2,
+    "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_2.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1726009963_index_0.json"
       }
     ]
   }

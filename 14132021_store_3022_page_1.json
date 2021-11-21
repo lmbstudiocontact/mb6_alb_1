@@ -1,27 +1,27 @@
 [
   {
-    "title": "Ratatouille Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678454185_646398c657_o.gif",
-    "id_album": "-1094149645",
-    "total": 5,
+    "title": "Lilo & Stitch Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676257957_3288e392ae_o.gif",
+    "id_album": "1677497602",
+    "total": 30,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1094149645_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1677497602_index_0.json"
       }
     ]
   },
   {
-    "title": "Ghibli Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677472504_01bd1c6c93_o.gif",
-    "id_album": "1193703152",
-    "total": 17,
+    "title": "Football_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677392879_e4b45f3c77_o.gif",
+    "id_album": "-73748370",
+    "total": 49,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1193703152_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-73748370_index_0.json"
       }
     ]
   }

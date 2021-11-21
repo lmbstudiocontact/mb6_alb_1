@@ -1,27 +1,27 @@
 [
   {
-    "title": "Couple_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677071129_37dd90f66a_o.gif",
-    "id_album": "475412475",
-    "total": 24,
+    "title": "Raccoons_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51678220834_818bcf2719_o.gif",
+    "id_album": "905414983",
+    "total": 20,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_475412475_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_905414983_index_0.json"
       }
     ]
   },
   {
-    "title": "Frozen Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677459274_0e3f0beeb6_o.gif",
-    "id_album": "-1319288147",
-    "total": 11,
+    "title": "Wolf_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676879587_f9cbfb912b_o.gif",
+    "id_album": "1920076969",
+    "total": 5,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1319288147_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1920076969_index_0.json"
       }
     ]
   }

@@ -1,31 +1,27 @@
 [
   {
-    "title": "Disney Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677210409_ac23b3beea_o.gif",
-    "id_album": "-1858058375",
-    "total": 54,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "Simpsons Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678333414_3cfc038e70_o.gif",
-    "id_album": "-1214937997",
-    "total": 8,
+    "title": "Rio 2_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677827918_d10106c2d2_o.gif",
+    "id_album": "296910609",
+    "total": 17,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1214937997_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_296910609_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Movie",
+    "link_thumb": "https://live.staticflickr.com/65535/51670337700_4549125837_o.gif",
+    "id_album": "74534672",
+    "total": 17,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_74534672_index_0.json"
       }
     ]
   }

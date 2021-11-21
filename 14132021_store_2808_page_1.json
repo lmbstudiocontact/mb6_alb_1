@@ -1,31 +1,27 @@
 [
   {
-    "title": "Animal Art_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677216510_4ea1105918_o.gif",
-    "id_album": "-1265072900",
-    "total": 7,
+    "title": "Dragon Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677511155_a5607e3024_o.gif",
+    "id_album": "-1267433787",
+    "total": 13,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1265072900_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1267433787_index_0.json"
       }
     ]
   },
   {
-    "title": "Cute Art_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677299375_83cf1f252e_o.gif",
-    "id_album": "195512437",
-    "total": 76,
-    "size_max_detail_page": 2,
+    "title": "Death Note Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677387440_d600b6a4e5_o.gif",
+    "id_album": "1251647241",
+    "total": 8,
+    "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_195512437_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_195512437_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1251647241_index_0.json"
       }
     ]
   }

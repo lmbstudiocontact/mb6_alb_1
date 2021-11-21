@@ -1,27 +1,27 @@
 [
   {
-    "title": "Onmyoji_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678250955_5a0b4ced35_o.gif",
-    "id_album": "473358232",
-    "total": 26,
+    "title": "Dragon Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677511155_a5607e3024_o.gif",
+    "id_album": "-1267433787",
+    "total": 13,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_473358232_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1267433787_index_0.json"
       }
     ]
   },
   {
-    "title": "Wolf_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676879587_f9cbfb912b_o.gif",
-    "id_album": "1920076969",
-    "total": 5,
+    "title": "Horror Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676082682_63d7356df1_o.gif",
+    "id_album": "1925454094",
+    "total": 41,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1920076969_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1925454094_index_0.json"
       }
     ]
   }

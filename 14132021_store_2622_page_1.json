@@ -1,27 +1,35 @@
 [
   {
-    "title": "Horror Art_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676082682_63d7356df1_o.gif",
-    "id_album": "1925454094",
-    "total": 41,
+    "title": "Ratatouille Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51678454185_646398c657_o.gif",
+    "id_album": "-1094149645",
+    "total": 5,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1925454094_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1094149645_index_0.json"
       }
     ]
   },
   {
-    "title": "Naruto Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676368287_866fcc9861_o.gif",
-    "id_album": "-549634250",
-    "total": 37,
-    "size_max_detail_page": 1,
+    "title": "Pokmon Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677431216_f355d57682_o.gif",
+    "id_album": "-1571020089",
+    "total": 108,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-549634250_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_2.json"
       }
     ]
   }

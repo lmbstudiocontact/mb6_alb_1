@@ -1,31 +1,27 @@
 [
   {
-    "title": "Disney Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677210409_ac23b3beea_o.gif",
-    "id_album": "-1858058375",
-    "total": 54,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "Raccoons_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678220834_818bcf2719_o.gif",
-    "id_album": "905414983",
-    "total": 20,
+    "title": "Halloween Ghost Witch_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677069353_16b539f01a_o.gif",
+    "id_album": "-877220232",
+    "total": 49,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_905414983_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-877220232_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Rio 2_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677827918_d10106c2d2_o.gif",
+    "id_album": "296910609",
+    "total": 17,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_296910609_index_0.json"
       }
     ]
   }

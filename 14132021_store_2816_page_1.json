@@ -1,31 +1,31 @@
 [
   {
-    "title": "Kitty & My Melody_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677856270_67dfa942de_o.gif",
-    "id_album": "1352454006",
-    "total": 76,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1352454006_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1352454006_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "Death Note Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677387440_d600b6a4e5_o.gif",
-    "id_album": "1251647241",
-    "total": 8,
+    "title": "Raccoons_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51678220834_818bcf2719_o.gif",
+    "id_album": "905414983",
+    "total": 20,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1251647241_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_905414983_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Game",
+    "link_thumb": "https://live.staticflickr.com/65535/51670155889_4834f4a7ba_o.gif",
+    "id_album": "2211858",
+    "total": 53,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_2211858_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_2211858_index_1.json"
       }
     ]
   }
