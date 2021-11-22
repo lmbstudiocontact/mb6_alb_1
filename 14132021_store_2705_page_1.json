@@ -1,27 +1,27 @@
 [
   {
-    "title": "Raccoons_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678220834_818bcf2719_o.gif",
-    "id_album": "905414983",
-    "total": 20,
+    "title": "Boku No Hero Academia Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677017219_c7cbb4199e_o.gif",
+    "id_album": "638826546",
+    "total": 19,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_905414983_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_638826546_index_0.json"
       }
     ]
   },
   {
-    "title": "Movie",
-    "link_thumb": "https://live.staticflickr.com/65535/51670337700_4549125837_o.gif",
-    "id_album": "74534672",
-    "total": 17,
+    "title": "Star War_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676877847_b9d904aa4f_o.gif",
+    "id_album": "-1383219199",
+    "total": 2,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_74534672_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1383219199_index_0.json"
       }
     ]
   }

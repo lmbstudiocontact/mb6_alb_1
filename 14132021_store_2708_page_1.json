@@ -1,39 +1,27 @@
 [
   {
-    "title": "One Piece Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677470298_2db6d5ea6c_o.gif",
-    "id_album": "1669710643",
-    "total": 135,
-    "size_max_detail_page": 3,
+    "title": "Smurf Houses Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676863287_efe643cf91_o.gif",
+    "id_album": "319226345",
+    "total": 4,
+    "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_2.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_319226345_index_0.json"
       }
     ]
   },
   {
-    "title": "Disney Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677210409_ac23b3beea_o.gif",
-    "id_album": "-1858058375",
-    "total": 54,
-    "size_max_detail_page": 2,
+    "title": "Movie",
+    "link_thumb": "https://live.staticflickr.com/65535/51670337700_4549125837_o.gif",
+    "id_album": "74534672",
+    "total": 17,
+    "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_74534672_index_0.json"
       }
     ]
   }

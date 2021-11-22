@@ -1,18 +1,5 @@
 [
   {
-    "title": "Plants Vs Zombies_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677653033_5f81632d3c_o.gif",
-    "id_album": "-1038543655",
-    "total": 24,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1038543655_index_0.json"
-      }
-    ]
-  },
-  {
     "title": "Rio 2_M6_2",
     "link_thumb": "https://live.staticflickr.com/65535/51677827918_d10106c2d2_o.gif",
     "id_album": "296910609",
@@ -22,6 +9,19 @@
       {
         "index_page": 0,
         "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_296910609_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Madagascar Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677096731_d9f0705e7a_o.gif",
+    "id_album": "1055051297",
+    "total": 9,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1055051297_index_0.json"
       }
     ]
   }

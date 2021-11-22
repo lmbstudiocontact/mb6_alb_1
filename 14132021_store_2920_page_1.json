@@ -1,27 +1,35 @@
 [
   {
-    "title": "Smurf Houses Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676863287_efe643cf91_o.gif",
-    "id_album": "319226345",
-    "total": 4,
+    "title": "Ghibli Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677472504_01bd1c6c93_o.gif",
+    "id_album": "1193703152",
+    "total": 17,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_319226345_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1193703152_index_0.json"
       }
     ]
   },
   {
-    "title": "Simpsons Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678333414_3cfc038e70_o.gif",
-    "id_album": "-1214937997",
-    "total": 8,
-    "size_max_detail_page": 1,
+    "title": "Pokmon Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677431216_f355d57682_o.gif",
+    "id_album": "-1571020089",
+    "total": 108,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1214937997_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1571020089_index_2.json"
       }
     ]
   }
