@@ -1,27 +1,27 @@
 [
   {
-    "title": "Detective Conan_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51675713327_d35e500392_o.gif",
-    "id_album": "1697179127",
-    "total": 16,
+    "title": "Lilo & Stitch Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676257957_3288e392ae_o.gif",
+    "id_album": "1677497602",
+    "total": 30,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1697179127_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1677497602_index_0.json"
       }
     ]
   },
   {
-    "title": "Frozen Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677459274_0e3f0beeb6_o.gif",
-    "id_album": "-1319288147",
-    "total": 11,
+    "title": "Ragnarok_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51676752647_e4c4962709_o.gif",
+    "id_album": "1272388472",
+    "total": 15,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1319288147_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1272388472_index_0.json"
       }
     ]
   }

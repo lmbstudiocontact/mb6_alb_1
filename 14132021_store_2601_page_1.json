@@ -1,35 +1,31 @@
 [
   {
-    "title": "Wolf_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676879587_f9cbfb912b_o.gif",
-    "id_album": "1920076969",
-    "total": 5,
+    "title": "Buddhist Terms_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677257355_a75484338e_o.gif",
+    "id_album": "402456063",
+    "total": 13,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1920076969_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_402456063_index_0.json"
       }
     ]
   },
   {
-    "title": "One Piece Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677470298_2db6d5ea6c_o.gif",
-    "id_album": "1669710643",
-    "total": 135,
-    "size_max_detail_page": 3,
+    "title": "Disney Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677210409_ac23b3beea_o.gif",
+    "id_album": "-1858058375",
+    "total": 54,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_2.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_1.json"
       }
     ]
   }

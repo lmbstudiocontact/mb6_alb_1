@@ -1,31 +1,31 @@
 [
   {
-    "title": "Simpsons Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678333414_3cfc038e70_o.gif",
-    "id_album": "-1214937997",
-    "total": 8,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1214937997_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Disney Cartoon_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677210409_ac23b3beea_o.gif",
-    "id_album": "-1858058375",
-    "total": 54,
+    "title": "Game",
+    "link_thumb": "https://live.staticflickr.com/65535/51670155889_4834f4a7ba_o.gif",
+    "id_album": "2211858",
+    "total": 53,
     "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_2211858_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1858058375_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_2211858_index_1.json"
+      }
+    ]
+  },
+  {
+    "title": "Kung Fu Panda_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677060386_1630d521d1_o.gif",
+    "id_album": "-1726009963",
+    "total": 2,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1726009963_index_0.json"
       }
     ]
   }

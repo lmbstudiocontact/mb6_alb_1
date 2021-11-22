@@ -1,27 +1,35 @@
 [
   {
-    "title": "Angry Birds_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51675510042_6fcab7e4be_o.gif",
-    "id_album": "-1186646688",
-    "total": 26,
+    "title": "Joker Harley Quinn_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677187098_51694f8654_o.gif",
+    "id_album": "-1985531774",
+    "total": 24,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1186646688_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1985531774_index_0.json"
       }
     ]
   },
   {
-    "title": "Raccoons_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51678220834_818bcf2719_o.gif",
-    "id_album": "905414983",
-    "total": 20,
-    "size_max_detail_page": 1,
+    "title": "One Piece Anime_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677470298_2db6d5ea6c_o.gif",
+    "id_album": "1669710643",
+    "total": 135,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_905414983_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1669710643_index_2.json"
       }
     ]
   }

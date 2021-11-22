@@ -1,27 +1,27 @@
 [
   {
-    "title": "Star War_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676877847_b9d904aa4f_o.gif",
-    "id_album": "-1383219199",
-    "total": 2,
+    "title": "Ratatouille Cartoon_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51678454185_646398c657_o.gif",
+    "id_album": "-1094149645",
+    "total": 5,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1383219199_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1094149645_index_0.json"
       }
     ]
   },
   {
-    "title": "Butterfly_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676392056_cb0c4fdb09_o.gif",
-    "id_album": "559203688",
-    "total": 6,
+    "title": "Fox Art_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51675976162_dba3cf0252_o.gif",
+    "id_album": "1857757129",
+    "total": 7,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_559203688_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_1857757129_index_0.json"
       }
     ]
   }

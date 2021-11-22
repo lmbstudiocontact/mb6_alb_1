@@ -1,27 +1,27 @@
 [
   {
-    "title": "Naruto Anime_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676368287_866fcc9861_o.gif",
-    "id_album": "-549634250",
-    "total": 37,
+    "title": "Movie",
+    "link_thumb": "https://live.staticflickr.com/65535/51670337700_4549125837_o.gif",
+    "id_album": "74534672",
+    "total": 17,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-549634250_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_74534672_index_0.json"
       }
     ]
   },
   {
-    "title": "Buddhist Terms_M6_2",
-    "link_thumb": "https://live.staticflickr.com/65535/51677257355_a75484338e_o.gif",
-    "id_album": "402456063",
-    "total": 13,
+    "title": "Plants Vs Zombies_M6_2",
+    "link_thumb": "https://live.staticflickr.com/65535/51677653033_5f81632d3c_o.gif",
+    "id_album": "-1038543655",
+    "total": 24,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_402456063_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_alb_0/raw/main/14132021_dta_-1038543655_index_0.json"
       }
     ]
   }
